@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# truffle
+build
+
+# environment variables
+.env
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+secrets.json
+
+node_modules
+
+#Buidler files
+cache
+artifacts
